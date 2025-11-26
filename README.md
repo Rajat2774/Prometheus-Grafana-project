@@ -1,2 +1,2 @@
 # Prometheus-Grafana-project
-Project to implement monitoring and alerting on minikube
+Project to implement monitoring and alerting on minikube cluster
